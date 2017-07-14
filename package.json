@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "autobahn": "^17.5.2"
+  }
+}
